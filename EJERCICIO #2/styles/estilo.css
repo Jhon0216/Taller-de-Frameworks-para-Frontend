@@ -1,0 +1,50 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	background:#eaf2e3;
+}
+
+div#contenedor{
+	margin:auto;
+	height:83px;
+	background-color:#66d7d1;
+	font-size:20px;
+	text-align:center;
+	background-image: url(https://2.bp.blogspot.com/--1FhJikJKVY/WIm714ob0nI/AAAAAAAAERs/EZt0CpdzAd4JI6yyBG__iumTBUhuPV6QACK4B/s1600/logotipo-tesla-logo-insignia.jpg);
+	background-repeat: no-repeat;
+	background-size:250px 85px;
+}
+
+section#contenido{
+	margin-top:28px;
+	float:right;
+	width:72%;
+	height:600px;
+	background-color:#eaf2e3;
+}
+
+#contenido h2{
+    text-align:center;
+}
+
+#contenido h4{
+	text-align:left;
+	height:50px;
+}
+
+aside{
+	margin-top:28px;
+	float:left;
+	width:25%;
+	height:600px;
+	background-color:#f4f1bb;
+}
+footer{
+	background:#66d7d1;
+	clear:both;
+	width:100%;
+	height:95px;
+}
